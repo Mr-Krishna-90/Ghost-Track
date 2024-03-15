@@ -44,7 +44,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 
 
 ### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_909
-/I_Picker/issues)
+/Ghost-Track/issues)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
